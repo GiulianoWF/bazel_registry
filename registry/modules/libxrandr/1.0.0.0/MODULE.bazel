@@ -1,0 +1,7 @@
+module(
+    name = "libxrandr",
+    version = "1.0.0.0", 
+    compatibility_level = 1,
+)
+
+bazel_dep(name = "libx11", version = "1.0.0.0")

@@ -1,0 +1,11 @@
+{
+    "homepage": "https://your-company.com/fusion",
+    "maintainers": [
+        {
+            "name": "Fusion Team",
+            "email": "fusion-team@your-company.com"
+        }
+    ],
+    "versions": ["1.0.0.0"],
+    "yanked_versions": {}
+}
